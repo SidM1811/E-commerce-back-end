@@ -1,5 +1,5 @@
 # E-commerce-back-end
-INTRODUCTION
+# INTRODUCTION
 This project explores the back-end of a rudimentary e-commerce marketplace. It aims to demonstrate the functionality that might be expected from such a platform. It is written in Python and implements a MySQL connection for managing database operations. 
 The project may be conceptualized as follows:
 1.	Admins- These users are responsible for the upkeep of the platform. They have the ability to add more admins and increase the balance of a customer.
